@@ -1,0 +1,15 @@
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\obj\Debug\net6.0\BubbleSortAlgorithm-Console.csproj.AssemblyReference.cache
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\obj\Debug\net6.0\BubbleSortAlgorithm-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\obj\Debug\net6.0\BubbleSortAlgorithm-Console.AssemblyInfoInputs.cache
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\obj\Debug\net6.0\BubbleSortAlgorithm-Console.AssemblyInfo.cs
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\obj\Debug\net6.0\BubbleSortAlgorithm-Console.csproj.CoreCompileInputs.cache
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\bin\Debug\net6.0\BubbleSortAlgorithm-Console.exe
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\bin\Debug\net6.0\BubbleSortAlgorithm-Console.deps.json
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\bin\Debug\net6.0\BubbleSortAlgorithm-Console.runtimeconfig.json
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\bin\Debug\net6.0\BubbleSortAlgorithm-Console.dll
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\bin\Debug\net6.0\ref\BubbleSortAlgorithm-Console.dll
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\bin\Debug\net6.0\BubbleSortAlgorithm-Console.pdb
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\obj\Debug\net6.0\BubbleSortAlgorithm-Console.dll
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\obj\Debug\net6.0\ref\BubbleSortAlgorithm-Console.dll
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\obj\Debug\net6.0\BubbleSortAlgorithm-Console.pdb
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\obj\Debug\net6.0\BubbleSortAlgorithm-Console.genruntimeconfig.cache
