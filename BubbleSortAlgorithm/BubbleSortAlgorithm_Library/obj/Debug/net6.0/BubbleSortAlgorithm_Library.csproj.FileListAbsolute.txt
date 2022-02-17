@@ -1,0 +1,12 @@
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm_Library\bin\Debug\net6.0\BubbleSortAlgorithm_Library.deps.json
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm_Library\bin\Debug\net6.0\BubbleSortAlgorithm_Library.dll
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm_Library\bin\Debug\net6.0\ref\BubbleSortAlgorithm_Library.dll
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm_Library\bin\Debug\net6.0\BubbleSortAlgorithm_Library.pdb
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm_Library\obj\Debug\net6.0\BubbleSortAlgorithm_Library.csproj.AssemblyReference.cache
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm_Library\obj\Debug\net6.0\BubbleSortAlgorithm_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm_Library\obj\Debug\net6.0\BubbleSortAlgorithm_Library.AssemblyInfoInputs.cache
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm_Library\obj\Debug\net6.0\BubbleSortAlgorithm_Library.AssemblyInfo.cs
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm_Library\obj\Debug\net6.0\BubbleSortAlgorithm_Library.csproj.CoreCompileInputs.cache
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm_Library\obj\Debug\net6.0\BubbleSortAlgorithm_Library.dll
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm_Library\obj\Debug\net6.0\ref\BubbleSortAlgorithm_Library.dll
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm_Library\obj\Debug\net6.0\BubbleSortAlgorithm_Library.pdb

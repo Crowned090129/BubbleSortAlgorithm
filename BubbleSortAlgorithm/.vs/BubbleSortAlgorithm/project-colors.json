@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1928d0d2-1402-46a6-ad44-7d8b25535b54": {
+      "ProjectGuid": "1928d0d2-1402-46a6-ad44-7d8b25535b54",
+      "DisplayName": "BubbleSortAlgorithm-Console",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

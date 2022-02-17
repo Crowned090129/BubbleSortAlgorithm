@@ -9,31 +9,10 @@
             foreach (int i in arr)
                 System.Console.Write(i + " ");
 
-            int aux, aputador1, aputador2, vueltas;
-            vueltas = arr.Length;
-
-            for (int i = 0; i < vueltas; i++)
-            {
-                aputador1 = 0;
-                aputador2 = aputador1 + 1;
-
-                for (int o = 0; o < vueltas; o++)
-                {
-                    // Good Logic Code
-                    if (arr[aputador1] > arr[aputador2])
-                    {
-                        aux = arr[aputador2];
-                        arr[aputador2] = arr[aputador1];
-                        arr[aputador1] = aux;
-                    }
-
-                    aputador1 = o;
-                    aputador2 = aputador1 + 1;
-                }
-            }
+            int[] array = BubbleSortAlgorithm_Library.BubbleSort.SortIntegers(arr);
 
             System.Console.Write("\n");
-            foreach (int i in arr)
+            foreach (int i in array)
                 System.Console.Write(i + " ");
 
         }

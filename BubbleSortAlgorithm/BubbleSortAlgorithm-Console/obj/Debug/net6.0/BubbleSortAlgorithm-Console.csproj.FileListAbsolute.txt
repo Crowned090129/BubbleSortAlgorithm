@@ -13,3 +13,6 @@ C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorit
 C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\obj\Debug\net6.0\ref\BubbleSortAlgorithm-Console.dll
 C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\obj\Debug\net6.0\BubbleSortAlgorithm-Console.pdb
 C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\obj\Debug\net6.0\BubbleSortAlgorithm-Console.genruntimeconfig.cache
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\bin\Debug\net6.0\BubbleSortAlgorithm_Library.dll
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\bin\Debug\net6.0\BubbleSortAlgorithm_Library.pdb
+C:\Users\luisr\Desktop\BubbleSortAlgorithm\BubbleSortAlgorithm\BubbleSortAlgorithm-Console\obj\Debug\net6.0\BubbleSortAlgorithm-Console.csproj.CopyComplete

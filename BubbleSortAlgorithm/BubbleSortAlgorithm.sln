@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortAlgorithm-Console", "BubbleSortAlgorithm-Console\BubbleSortAlgorithm-Console.csproj", "{1928D0D2-1402-46A6-AD44-7D8B25535B54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSortAlgorithm-Console", "BubbleSortAlgorithm-Console\BubbleSortAlgorithm-Console.csproj", "{1928D0D2-1402-46A6-AD44-7D8B25535B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortAlgorithm_Library", "BubbleSortAlgorithm_Library\BubbleSortAlgorithm_Library.csproj", "{79018790-BA1A-40A8-AB13-17E1DA9F08C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1928D0D2-1402-46A6-AD44-7D8B25535B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1928D0D2-1402-46A6-AD44-7D8B25535B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1928D0D2-1402-46A6-AD44-7D8B25535B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79018790-BA1A-40A8-AB13-17E1DA9F08C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79018790-BA1A-40A8-AB13-17E1DA9F08C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79018790-BA1A-40A8-AB13-17E1DA9F08C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79018790-BA1A-40A8-AB13-17E1DA9F08C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

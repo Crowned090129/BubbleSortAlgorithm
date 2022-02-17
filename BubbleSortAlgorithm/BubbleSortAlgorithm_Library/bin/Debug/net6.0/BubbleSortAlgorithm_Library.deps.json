@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "BubbleSortAlgorithm-Console/1.0.0": {
-        "dependencies": {
-          "BubbleSortAlgorithm_Library": "1.0.0"
-        },
-        "runtime": {
-          "BubbleSortAlgorithm-Console.dll": {}
-        }
-      },
       "BubbleSortAlgorithm_Library/1.0.0": {
         "runtime": {
           "BubbleSortAlgorithm_Library.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "BubbleSortAlgorithm-Console/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "BubbleSortAlgorithm_Library/1.0.0": {
       "type": "project",
       "serviceable": false,
